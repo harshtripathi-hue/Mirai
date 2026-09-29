@@ -14,3 +14,5 @@ for(let i=0;i<arr.length;i++){
 }
 console.log("Sum:",sum);
 console.log("Product:",product);
+
+console.log("harsh tripathi")
